@@ -12,7 +12,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 import plotly.express as px
 
 st.set_page_config(page_title='Employee Reward Recommender', page_icon='🎁', layout='wide', initial_sidebar_state='expanded')
-st.title('🎁 Employee Preferred Reward — AI Predictor')
+st.title('🎁 Employee Reward Recommender (ජපුර) — AI Predictor')
 st.write('Enter employee attributes to predict the most likely **Preferred Reward**. Upload your dataset or use the bundled sample.')
 
 # Data loading
