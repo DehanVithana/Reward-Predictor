@@ -1,0 +1,1001 @@
+EmployeeID,Department,PerformanceScore,PreferredReward,TenureYears,WorkStyle
+E0001,Engineering,High,Bonus,8.5,Hybrid
+E0002,Operations,High,Flexible Hours,12.9,Onsite
+E0003,IT,Average,Promotion,2.3,Hybrid
+E0004,HR,Average,Gift Cards,5.1,Onsite
+E0005,Customer Service,Low,Flexible Hours,13.0,Onsite
+E0006,Marketing,Average,Bonus,13.3,Remote
+E0007,Engineering,Average,Gift Cards,14.5,Onsite
+E0008,Operations,High,Bonus,3.9,Onsite
+E0009,IT,High,Training,5.3,Remote
+E0010,Operations,Low,Bonus,11.6,Remote
+E0011,Finance,High,Bonus,9.3,Onsite
+E0012,Sales,Average,Bonus,10.8,Remote
+E0013,HR,Outstanding,Bonus,9.3,Hybrid
+E0014,Marketing,Average,Gift Cards,12.2,Remote
+E0015,Marketing,Outstanding,Bonus,4.9,Hybrid
+E0016,Sales,Average,Recognition,11.6,Onsite
+E0017,Finance,Average,Training,1.2,Onsite
+E0018,Finance,Low,Training,7.7,Remote
+E0019,Sales,Average,Gift Cards,6.6,Hybrid
+E0020,Engineering,High,Bonus,11.1,Onsite
+E0021,Marketing,Average,Promotion,0.7,Onsite
+E0022,Finance,Outstanding,Training,4.5,Onsite
+E0023,Customer Service,Average,Flexible Hours,12.9,Onsite
+E0024,Finance,Average,Flexible Hours,9.0,Hybrid
+E0025,HR,High,Training,14.1,Hybrid
+E0026,Customer Service,High,Promotion,7.9,Remote
+E0027,IT,High,Training,10.0,Hybrid
+E0028,Sales,Low,Flexible Hours,4.7,Hybrid
+E0029,Customer Service,Outstanding,Training,5.9,Hybrid
+E0030,Finance,Low,Promotion,1.2,Hybrid
+E0031,Engineering,High,Gift Cards,14.2,Remote
+E0032,Engineering,High,Flexible Hours,11.2,Hybrid
+E0033,HR,Average,Gift Cards,1.5,Hybrid
+E0034,Finance,High,Promotion,9.7,Remote
+E0035,Operations,High,Gift Cards,1.2,Onsite
+E0036,Finance,Average,Training,6.7,Remote
+E0037,Marketing,Average,Flexible Hours,10.9,Onsite
+E0038,Engineering,Average,Flexible Hours,5.0,Onsite
+E0039,Operations,Average,Promotion,4.9,Onsite
+E0040,Engineering,High,Flexible Hours,13.8,Onsite
+E0041,Finance,Average,Bonus,1.6,Hybrid
+E0042,Finance,High,Training,1.4,Onsite
+E0043,Engineering,High,Flexible Hours,13.4,Remote
+E0044,Sales,Average,Gift Cards,4.5,Remote
+E0045,IT,High,Recognition,9.2,Onsite
+E0046,HR,High,Recognition,0.7,Remote
+E0047,Operations,High,Flexible Hours,11.2,Onsite
+E0048,Operations,Average,Flexible Hours,2.3,Hybrid
+E0049,HR,Low,Gift Cards,1.1,Onsite
+E0050,IT,Average,Promotion,2.0,Onsite
+E0051,HR,Average,Gift Cards,9.4,Onsite
+E0052,HR,Outstanding,Training,9.9,Onsite
+E0053,Customer Service,High,Recognition,14.1,Onsite
+E0054,IT,High,Recognition,13.8,Hybrid
+E0055,Sales,Average,Gift Cards,4.4,Hybrid
+E0056,Customer Service,Low,Training,3.2,Hybrid
+E0057,Finance,High,Promotion,13.0,Onsite
+E0058,HR,High,Flexible Hours,9.0,Remote
+E0059,Marketing,High,Flexible Hours,6.5,Hybrid
+E0060,Finance,High,Gift Cards,11.1,Remote
+E0061,Marketing,Outstanding,Recognition,1.3,Hybrid
+E0062,Engineering,Low,Flexible Hours,8.1,Remote
+E0063,Customer Service,Average,Recognition,11.3,Hybrid
+E0064,Operations,High,Flexible Hours,4.4,Hybrid
+E0065,Marketing,Average,Promotion,2.9,Onsite
+E0066,Sales,Outstanding,Recognition,4.5,Onsite
+E0067,Marketing,High,Training,3.5,Remote
+E0068,IT,High,Training,9.7,Onsite
+E0069,Operations,Average,Flexible Hours,8.4,Onsite
+E0070,Customer Service,Average,Gift Cards,8.5,Remote
+E0071,Marketing,High,Promotion,5.3,Onsite
+E0072,Operations,Average,Gift Cards,11.7,Onsite
+E0073,Finance,Outstanding,Flexible Hours,9.9,Remote
+E0074,Engineering,High,Training,9.4,Onsite
+E0075,Operations,Low,Gift Cards,2.8,Remote
+E0076,Marketing,Average,Training,6.3,Hybrid
+E0077,Sales,High,Training,11.6,Onsite
+E0078,Marketing,Low,Training,2.0,Remote
+E0079,Operations,High,Bonus,11.2,Onsite
+E0080,Marketing,High,Recognition,12.9,Onsite
+E0081,Customer Service,Average,Bonus,9.1,Hybrid
+E0082,HR,Average,Flexible Hours,3.0,Hybrid
+E0083,Finance,Outstanding,Training,4.1,Hybrid
+E0084,Operations,High,Bonus,3.9,Onsite
+E0085,Operations,High,Promotion,11.7,Hybrid
+E0086,IT,Average,Promotion,6.1,Onsite
+E0087,HR,High,Recognition,1.0,Onsite
+E0088,Engineering,High,Gift Cards,12.1,Hybrid
+E0089,Marketing,Average,Bonus,13.0,Onsite
+E0090,Operations,Average,Gift Cards,14.5,Onsite
+E0091,Operations,Outstanding,Promotion,10.7,Remote
+E0092,HR,Average,Flexible Hours,8.6,Hybrid
+E0093,Sales,Outstanding,Bonus,13.1,Hybrid
+E0094,Marketing,High,Flexible Hours,8.7,Hybrid
+E0095,Finance,Average,Gift Cards,11.4,Onsite
+E0096,Engineering,Low,Recognition,10.0,Onsite
+E0097,IT,High,Gift Cards,9.6,Remote
+E0098,Engineering,Average,Training,13.8,Onsite
+E0099,HR,Outstanding,Training,7.8,Remote
+E0100,Customer Service,High,Flexible Hours,13.2,Remote
+E0101,Operations,High,Gift Cards,13.7,Remote
+E0102,Operations,High,Promotion,11.0,Onsite
+E0103,Finance,Average,Training,4.4,Hybrid
+E0104,Marketing,Low,Promotion,13.8,Remote
+E0105,Sales,Low,Flexible Hours,7.2,Onsite
+E0106,IT,Average,Bonus,11.0,Remote
+E0107,Engineering,Outstanding,Bonus,2.0,Hybrid
+E0108,HR,Average,Promotion,4.1,Remote
+E0109,Customer Service,Average,Gift Cards,11.5,Hybrid
+E0110,HR,High,Flexible Hours,6.4,Onsite
+E0111,HR,High,Recognition,2.5,Hybrid
+E0112,Marketing,Outstanding,Flexible Hours,8.2,Hybrid
+E0113,Finance,Average,Promotion,2.8,Hybrid
+E0114,Operations,High,Bonus,9.4,Remote
+E0115,Sales,High,Flexible Hours,8.6,Hybrid
+E0116,IT,Average,Flexible Hours,11.4,Onsite
+E0117,Sales,Average,Gift Cards,1.9,Hybrid
+E0118,IT,Average,Promotion,8.9,Onsite
+E0119,Engineering,High,Promotion,9.9,Hybrid
+E0120,Customer Service,Average,Bonus,7.7,Hybrid
+E0121,IT,Low,Bonus,10.2,Onsite
+E0122,Sales,Outstanding,Recognition,10.2,Onsite
+E0123,Marketing,Low,Flexible Hours,9.5,Onsite
+E0124,Customer Service,High,Flexible Hours,10.9,Onsite
+E0125,Marketing,Average,Training,1.4,Onsite
+E0126,Finance,High,Gift Cards,7.8,Remote
+E0127,Customer Service,Outstanding,Flexible Hours,14.5,Hybrid
+E0128,HR,Average,Training,13.1,Onsite
+E0129,HR,Average,Gift Cards,1.2,Remote
+E0130,Engineering,High,Training,8.4,Remote
+E0131,Customer Service,High,Training,14.2,Remote
+E0132,Operations,Low,Training,14.2,Remote
+E0133,Sales,High,Gift Cards,13.4,Remote
+E0134,Customer Service,High,Recognition,9.9,Hybrid
+E0135,Operations,Average,Promotion,12.5,Remote
+E0136,Operations,Low,Gift Cards,13.9,Onsite
+E0137,Customer Service,Average,Bonus,5.7,Remote
+E0138,HR,Average,Promotion,2.5,Hybrid
+E0139,Engineering,Average,Bonus,10.6,Onsite
+E0140,IT,Average,Bonus,1.2,Hybrid
+E0141,Operations,Outstanding,Recognition,0.9,Hybrid
+E0142,Sales,Outstanding,Training,12.2,Hybrid
+E0143,Sales,High,Bonus,14.4,Onsite
+E0144,Engineering,Average,Bonus,3.3,Remote
+E0145,Customer Service,Low,Promotion,10.0,Onsite
+E0146,Operations,Outstanding,Training,6.5,Hybrid
+E0147,Operations,High,Gift Cards,6.0,Remote
+E0148,Engineering,High,Recognition,13.7,Remote
+E0149,Operations,High,Recognition,9.1,Onsite
+E0150,Sales,Average,Training,4.6,Hybrid
+E0151,Finance,High,Training,6.7,Onsite
+E0152,Customer Service,Average,Promotion,2.8,Remote
+E0153,Sales,Outstanding,Promotion,6.6,Remote
+E0154,Finance,High,Flexible Hours,11.7,Remote
+E0155,Customer Service,Average,Gift Cards,10.6,Onsite
+E0156,Sales,Low,Bonus,8.9,Remote
+E0157,IT,Average,Promotion,10.9,Onsite
+E0158,Marketing,High,Gift Cards,11.1,Remote
+E0159,Customer Service,Average,Promotion,12.8,Hybrid
+E0160,Operations,High,Recognition,7.5,Onsite
+E0161,Sales,Average,Recognition,6.4,Onsite
+E0162,Engineering,Outstanding,Recognition,7.9,Onsite
+E0163,Finance,High,Training,2.1,Hybrid
+E0164,HR,Low,Bonus,3.5,Onsite
+E0165,Customer Service,High,Recognition,7.4,Hybrid
+E0166,Finance,High,Promotion,9.6,Onsite
+E0167,Engineering,Average,Flexible Hours,5.7,Remote
+E0168,Marketing,High,Training,2.9,Remote
+E0169,HR,Low,Promotion,6.0,Hybrid
+E0170,Operations,High,Training,14.9,Hybrid
+E0171,Operations,High,Gift Cards,1.3,Remote
+E0172,IT,Average,Flexible Hours,1.6,Hybrid
+E0173,Marketing,Average,Training,1.7,Onsite
+E0174,Operations,Low,Flexible Hours,1.0,Hybrid
+E0175,Finance,High,Gift Cards,1.5,Hybrid
+E0176,Sales,High,Training,9.4,Hybrid
+E0177,Sales,High,Bonus,1.9,Hybrid
+E0178,Customer Service,Average,Gift Cards,6.4,Remote
+E0179,IT,Average,Bonus,11.6,Onsite
+E0180,Marketing,High,Recognition,9.0,Remote
+E0181,Operations,Outstanding,Flexible Hours,9.9,Remote
+E0182,IT,High,Flexible Hours,13.4,Remote
+E0183,IT,Low,Gift Cards,14.9,Onsite
+E0184,Engineering,Average,Flexible Hours,10.5,Hybrid
+E0185,Operations,Average,Bonus,4.2,Hybrid
+E0186,Finance,High,Gift Cards,7.2,Hybrid
+E0187,Finance,Average,Promotion,2.6,Hybrid
+E0188,Marketing,Low,Training,12.4,Hybrid
+E0189,Engineering,Average,Flexible Hours,8.4,Onsite
+E0190,Engineering,High,Recognition,11.4,Hybrid
+E0191,Sales,Outstanding,Bonus,13.8,Onsite
+E0192,Sales,Outstanding,Bonus,12.3,Onsite
+E0193,Marketing,High,Training,8.1,Hybrid
+E0194,Engineering,High,Recognition,6.6,Hybrid
+E0195,Customer Service,Outstanding,Bonus,12.9,Onsite
+E0196,Marketing,Average,Flexible Hours,13.3,Onsite
+E0197,Customer Service,High,Promotion,9.8,Hybrid
+E0198,IT,High,Promotion,10.2,Onsite
+E0199,Finance,Average,Bonus,3.4,Remote
+E0200,Operations,High,Training,12.9,Remote
+E0201,Customer Service,Average,Flexible Hours,8.2,Remote
+E0202,Finance,High,Training,7.0,Onsite
+E0203,Marketing,Low,Bonus,5.9,Onsite
+E0204,Finance,High,Promotion,5.2,Onsite
+E0205,HR,Average,Bonus,5.9,Onsite
+E0206,Sales,Average,Training,11.3,Onsite
+E0207,Finance,High,Bonus,11.5,Onsite
+E0208,Finance,Outstanding,Training,3.2,Onsite
+E0209,IT,Low,Recognition,9.3,Onsite
+E0210,Marketing,High,Bonus,5.4,Onsite
+E0211,Operations,Low,Training,11.7,Remote
+E0212,Operations,Outstanding,Promotion,4.1,Hybrid
+E0213,HR,Average,Recognition,3.0,Remote
+E0214,IT,Outstanding,Promotion,1.2,Onsite
+E0215,Customer Service,High,Recognition,8.0,Remote
+E0216,Operations,Low,Training,11.5,Onsite
+E0217,Operations,High,Gift Cards,14.1,Hybrid
+E0218,Customer Service,Average,Promotion,4.8,Onsite
+E0219,IT,High,Gift Cards,5.5,Onsite
+E0220,Engineering,Average,Gift Cards,9.5,Onsite
+E0221,Operations,Average,Gift Cards,6.4,Onsite
+E0222,Sales,Average,Flexible Hours,7.0,Remote
+E0223,Marketing,Average,Recognition,4.9,Onsite
+E0224,IT,Average,Flexible Hours,2.2,Hybrid
+E0225,Sales,High,Promotion,5.4,Remote
+E0226,Engineering,Average,Promotion,11.2,Hybrid
+E0227,Finance,Outstanding,Flexible Hours,11.7,Onsite
+E0228,HR,High,Training,11.4,Onsite
+E0229,IT,Low,Training,2.9,Hybrid
+E0230,Sales,Average,Training,2.6,Onsite
+E0231,IT,Average,Recognition,9.7,Hybrid
+E0232,Sales,Outstanding,Promotion,2.8,Hybrid
+E0233,IT,Average,Bonus,4.1,Remote
+E0234,Sales,Average,Bonus,14.2,Remote
+E0235,Operations,Outstanding,Bonus,0.8,Hybrid
+E0236,Operations,Average,Bonus,12.3,Hybrid
+E0237,Marketing,High,Bonus,13.1,Hybrid
+E0238,Operations,Average,Recognition,7.7,Hybrid
+E0239,Marketing,Low,Flexible Hours,1.4,Remote
+E0240,IT,Outstanding,Flexible Hours,13.7,Hybrid
+E0241,Sales,Average,Training,6.1,Onsite
+E0242,Finance,Average,Flexible Hours,0.9,Hybrid
+E0243,Sales,High,Training,3.5,Onsite
+E0244,HR,Average,Training,7.9,Onsite
+E0245,Engineering,High,Flexible Hours,5.8,Onsite
+E0246,Engineering,High,Gift Cards,11.7,Onsite
+E0247,HR,High,Recognition,6.4,Onsite
+E0248,Operations,High,Bonus,9.0,Remote
+E0249,HR,Average,Gift Cards,1.3,Onsite
+E0250,Sales,Average,Flexible Hours,9.7,Hybrid
+E0251,Sales,High,Recognition,5.3,Onsite
+E0252,Engineering,Low,Gift Cards,14.8,Hybrid
+E0253,HR,Average,Bonus,9.5,Hybrid
+E0254,IT,Average,Gift Cards,11.4,Remote
+E0255,Sales,Average,Training,11.4,Onsite
+E0256,Marketing,Average,Promotion,7.4,Hybrid
+E0257,HR,Average,Recognition,12.6,Remote
+E0258,Marketing,Average,Training,9.6,Remote
+E0259,Operations,High,Bonus,6.7,Onsite
+E0260,Customer Service,Average,Recognition,1.7,Hybrid
+E0261,Sales,High,Recognition,6.9,Hybrid
+E0262,IT,High,Flexible Hours,8.7,Onsite
+E0263,Operations,High,Flexible Hours,8.2,Remote
+E0264,Marketing,High,Training,8.7,Remote
+E0265,IT,High,Training,3.1,Onsite
+E0266,Marketing,Outstanding,Bonus,9.4,Remote
+E0267,Finance,Average,Bonus,4.8,Onsite
+E0268,IT,High,Promotion,8.2,Remote
+E0269,Customer Service,Average,Bonus,2.2,Onsite
+E0270,Finance,Outstanding,Recognition,5.2,Onsite
+E0271,Finance,High,Recognition,7.9,Hybrid
+E0272,Engineering,High,Recognition,6.0,Onsite
+E0273,Engineering,Average,Training,6.9,Onsite
+E0274,Finance,High,Recognition,11.9,Onsite
+E0275,Customer Service,Average,Flexible Hours,3.3,Onsite
+E0276,Customer Service,Average,Promotion,2.1,Remote
+E0277,Operations,High,Promotion,8.0,Remote
+E0278,Finance,Average,Flexible Hours,6.2,Onsite
+E0279,Customer Service,High,Promotion,14.7,Onsite
+E0280,Finance,Average,Recognition,8.8,Hybrid
+E0281,IT,Average,Recognition,1.4,Remote
+E0282,Engineering,High,Gift Cards,0.6,Hybrid
+E0283,IT,High,Recognition,1.0,Onsite
+E0284,Finance,Outstanding,Flexible Hours,1.1,Hybrid
+E0285,Marketing,Outstanding,Training,14.9,Onsite
+E0286,HR,Low,Gift Cards,1.7,Hybrid
+E0287,IT,Outstanding,Gift Cards,2.5,Remote
+E0288,Sales,Average,Promotion,7.7,Hybrid
+E0289,Finance,Average,Training,1.1,Onsite
+E0290,IT,High,Bonus,7.0,Remote
+E0291,HR,Average,Training,6.3,Remote
+E0292,Engineering,Average,Promotion,2.8,Onsite
+E0293,Customer Service,High,Flexible Hours,10.5,Remote
+E0294,HR,High,Gift Cards,4.2,Hybrid
+E0295,Finance,High,Promotion,13.9,Onsite
+E0296,Engineering,Low,Promotion,9.7,Onsite
+E0297,Sales,Average,Promotion,9.8,Hybrid
+E0298,Marketing,Average,Gift Cards,13.0,Hybrid
+E0299,Sales,Average,Promotion,7.4,Onsite
+E0300,Operations,Low,Gift Cards,12.7,Onsite
+E0301,IT,Low,Bonus,3.8,Onsite
+E0302,Marketing,Low,Training,4.2,Hybrid
+E0303,Marketing,Outstanding,Recognition,13.2,Onsite
+E0304,HR,High,Bonus,9.9,Remote
+E0305,Customer Service,Average,Recognition,6.6,Onsite
+E0306,IT,High,Gift Cards,2.1,Remote
+E0307,HR,High,Bonus,3.5,Remote
+E0308,Finance,Average,Bonus,3.9,Onsite
+E0309,Engineering,Outstanding,Promotion,14.4,Onsite
+E0310,Engineering,High,Promotion,12.0,Hybrid
+E0311,Customer Service,Average,Bonus,3.5,Remote
+E0312,IT,Outstanding,Bonus,1.5,Remote
+E0313,Finance,Average,Training,11.9,Hybrid
+E0314,Customer Service,Outstanding,Recognition,14.7,Onsite
+E0315,Customer Service,Average,Promotion,8.5,Onsite
+E0316,Customer Service,Low,Promotion,1.9,Hybrid
+E0317,Operations,Average,Training,6.5,Onsite
+E0318,Finance,Average,Promotion,0.7,Onsite
+E0319,Engineering,High,Promotion,14.5,Onsite
+E0320,Customer Service,Outstanding,Flexible Hours,9.2,Hybrid
+E0321,Customer Service,High,Promotion,3.4,Remote
+E0322,HR,Average,Gift Cards,11.9,Onsite
+E0323,Sales,High,Flexible Hours,9.2,Onsite
+E0324,IT,Outstanding,Gift Cards,10.3,Remote
+E0325,IT,Low,Recognition,11.6,Hybrid
+E0326,Marketing,Outstanding,Recognition,10.4,Onsite
+E0327,Customer Service,Average,Gift Cards,13.8,Hybrid
+E0328,Engineering,High,Gift Cards,4.9,Remote
+E0329,Operations,Average,Bonus,8.4,Onsite
+E0330,Customer Service,Outstanding,Training,5.0,Hybrid
+E0331,Engineering,Outstanding,Gift Cards,4.4,Hybrid
+E0332,Marketing,Average,Promotion,11.5,Onsite
+E0333,Sales,Average,Bonus,7.4,Onsite
+E0334,Sales,Outstanding,Training,8.8,Onsite
+E0335,Operations,Average,Promotion,11.3,Onsite
+E0336,IT,Low,Flexible Hours,12.7,Hybrid
+E0337,Customer Service,Low,Training,7.4,Onsite
+E0338,Operations,Average,Training,5.8,Remote
+E0339,IT,Average,Flexible Hours,4.1,Remote
+E0340,Sales,Average,Training,7.2,Onsite
+E0341,HR,Low,Bonus,12.2,Remote
+E0342,HR,High,Gift Cards,2.2,Onsite
+E0343,HR,Average,Recognition,13.6,Onsite
+E0344,Marketing,Outstanding,Gift Cards,6.5,Onsite
+E0345,Sales,High,Flexible Hours,9.1,Hybrid
+E0346,Operations,Average,Gift Cards,14.2,Onsite
+E0347,Finance,Average,Recognition,12.4,Onsite
+E0348,Finance,Average,Promotion,2.7,Hybrid
+E0349,IT,Average,Gift Cards,12.8,Remote
+E0350,HR,Average,Recognition,10.6,Onsite
+E0351,IT,Average,Bonus,6.7,Remote
+E0352,Sales,High,Bonus,7.4,Hybrid
+E0353,Finance,High,Training,12.8,Remote
+E0354,Finance,High,Flexible Hours,12.8,Hybrid
+E0355,Customer Service,High,Training,6.8,Remote
+E0356,Finance,Average,Training,1.1,Remote
+E0357,Marketing,Average,Flexible Hours,8.4,Hybrid
+E0358,Operations,High,Bonus,5.7,Remote
+E0359,Customer Service,Average,Promotion,5.1,Onsite
+E0360,Engineering,High,Promotion,8.5,Hybrid
+E0361,Engineering,Outstanding,Bonus,11.8,Onsite
+E0362,Finance,Average,Gift Cards,9.0,Onsite
+E0363,Marketing,High,Promotion,4.6,Remote
+E0364,Engineering,Outstanding,Recognition,2.3,Remote
+E0365,IT,Average,Recognition,8.2,Onsite
+E0366,Sales,Outstanding,Promotion,14.7,Onsite
+E0367,Marketing,High,Recognition,8.2,Onsite
+E0368,Marketing,Average,Promotion,11.9,Onsite
+E0369,Finance,Average,Bonus,6.9,Remote
+E0370,HR,Average,Training,14.1,Remote
+E0371,Customer Service,Average,Recognition,0.7,Remote
+E0372,HR,Outstanding,Gift Cards,11.9,Onsite
+E0373,Marketing,Average,Promotion,14.0,Remote
+E0374,Finance,Average,Flexible Hours,3.9,Remote
+E0375,Sales,High,Training,6.9,Onsite
+E0376,Engineering,High,Flexible Hours,11.5,Onsite
+E0377,HR,Average,Recognition,9.6,Onsite
+E0378,Operations,Average,Bonus,7.9,Remote
+E0379,Operations,High,Bonus,6.8,Onsite
+E0380,HR,High,Flexible Hours,12.8,Remote
+E0381,IT,High,Promotion,1.8,Onsite
+E0382,HR,High,Bonus,8.1,Remote
+E0383,Customer Service,Average,Training,6.1,Onsite
+E0384,Marketing,Average,Bonus,3.3,Onsite
+E0385,Operations,Low,Promotion,12.8,Hybrid
+E0386,IT,Outstanding,Recognition,10.8,Remote
+E0387,IT,Outstanding,Gift Cards,6.3,Hybrid
+E0388,Customer Service,High,Bonus,0.5,Hybrid
+E0389,Marketing,Low,Flexible Hours,0.9,Onsite
+E0390,Operations,High,Training,4.4,Hybrid
+E0391,Customer Service,High,Training,1.9,Hybrid
+E0392,Sales,Low,Bonus,2.9,Hybrid
+E0393,Engineering,High,Flexible Hours,1.6,Hybrid
+E0394,Marketing,Average,Recognition,12.3,Onsite
+E0395,HR,High,Training,1.8,Onsite
+E0396,HR,Average,Gift Cards,14.4,Onsite
+E0397,IT,High,Recognition,1.3,Onsite
+E0398,Finance,Outstanding,Gift Cards,7.3,Onsite
+E0399,IT,Average,Gift Cards,0.6,Hybrid
+E0400,Customer Service,Average,Recognition,7.7,Onsite
+E0401,Sales,Average,Gift Cards,12.0,Hybrid
+E0402,Marketing,Average,Gift Cards,3.3,Hybrid
+E0403,Sales,Average,Recognition,1.7,Onsite
+E0404,HR,Average,Recognition,1.5,Remote
+E0405,IT,Average,Flexible Hours,6.8,Hybrid
+E0406,Operations,High,Bonus,11.8,Remote
+E0407,Operations,High,Recognition,14.2,Onsite
+E0408,Engineering,High,Recognition,12.2,Hybrid
+E0409,IT,Average,Bonus,11.8,Hybrid
+E0410,Finance,High,Training,12.5,Onsite
+E0411,Sales,High,Promotion,12.6,Remote
+E0412,Engineering,Average,Recognition,7.9,Onsite
+E0413,Engineering,High,Gift Cards,7.7,Remote
+E0414,Marketing,Average,Gift Cards,2.2,Hybrid
+E0415,Engineering,High,Training,1.2,Onsite
+E0416,Sales,Average,Training,6.8,Hybrid
+E0417,Marketing,High,Training,11.6,Hybrid
+E0418,Sales,Average,Bonus,14.5,Remote
+E0419,Engineering,Average,Gift Cards,2.4,Onsite
+E0420,HR,High,Training,4.4,Onsite
+E0421,HR,Average,Promotion,1.3,Remote
+E0422,Engineering,High,Bonus,7.5,Hybrid
+E0423,Sales,Average,Gift Cards,7.2,Remote
+E0424,Sales,High,Training,13.1,Onsite
+E0425,Operations,High,Recognition,11.5,Hybrid
+E0426,IT,High,Flexible Hours,11.8,Remote
+E0427,Marketing,High,Flexible Hours,0.8,Onsite
+E0428,Operations,High,Recognition,1.6,Hybrid
+E0429,IT,Average,Recognition,14.4,Hybrid
+E0430,Finance,High,Recognition,6.8,Remote
+E0431,Customer Service,Outstanding,Recognition,6.3,Remote
+E0432,Engineering,Outstanding,Training,11.2,Onsite
+E0433,Marketing,Low,Gift Cards,1.1,Hybrid
+E0434,IT,Outstanding,Flexible Hours,13.0,Remote
+E0435,IT,Average,Training,5.9,Remote
+E0436,HR,Average,Gift Cards,8.2,Remote
+E0437,Sales,Average,Flexible Hours,1.0,Remote
+E0438,Operations,Average,Gift Cards,7.6,Hybrid
+E0439,HR,Average,Recognition,10.3,Onsite
+E0440,Sales,High,Gift Cards,14.9,Remote
+E0441,Marketing,Average,Gift Cards,10.4,Hybrid
+E0442,Marketing,Low,Promotion,12.2,Hybrid
+E0443,Marketing,High,Gift Cards,2.2,Onsite
+E0444,IT,High,Gift Cards,10.9,Onsite
+E0445,Marketing,Average,Gift Cards,9.2,Remote
+E0446,Customer Service,Average,Bonus,11.7,Onsite
+E0447,Marketing,Average,Flexible Hours,13.9,Onsite
+E0448,Operations,High,Training,10.8,Onsite
+E0449,IT,Low,Training,12.8,Remote
+E0450,Sales,Low,Promotion,14.5,Hybrid
+E0451,Finance,Average,Flexible Hours,6.0,Onsite
+E0452,HR,High,Flexible Hours,7.2,Hybrid
+E0453,Sales,Average,Flexible Hours,14.9,Remote
+E0454,Finance,Low,Promotion,10.2,Onsite
+E0455,Engineering,Average,Bonus,13.1,Onsite
+E0456,Operations,High,Gift Cards,1.8,Onsite
+E0457,Operations,Average,Gift Cards,1.2,Onsite
+E0458,Operations,Average,Promotion,0.9,Hybrid
+E0459,HR,Average,Training,0.9,Hybrid
+E0460,Finance,High,Promotion,2.8,Hybrid
+E0461,Engineering,Low,Promotion,2.4,Remote
+E0462,HR,Average,Recognition,7.0,Hybrid
+E0463,Operations,Average,Gift Cards,5.1,Onsite
+E0464,Marketing,High,Training,5.1,Onsite
+E0465,Finance,Low,Training,2.4,Remote
+E0466,HR,Average,Recognition,2.3,Remote
+E0467,Finance,High,Flexible Hours,0.7,Remote
+E0468,Sales,Average,Recognition,9.5,Onsite
+E0469,Operations,High,Recognition,2.5,Onsite
+E0470,Sales,Average,Gift Cards,12.0,Remote
+E0471,Engineering,Average,Recognition,7.0,Onsite
+E0472,Finance,Outstanding,Recognition,2.3,Remote
+E0473,Sales,Average,Bonus,8.6,Onsite
+E0474,Operations,High,Flexible Hours,3.3,Onsite
+E0475,Finance,Average,Flexible Hours,8.4,Onsite
+E0476,IT,High,Recognition,2.1,Onsite
+E0477,Marketing,Average,Flexible Hours,6.9,Hybrid
+E0478,Engineering,High,Flexible Hours,7.5,Onsite
+E0479,IT,Outstanding,Promotion,10.8,Remote
+E0480,Finance,Outstanding,Training,12.5,Onsite
+E0481,Sales,High,Promotion,8.4,Onsite
+E0482,Finance,Average,Bonus,6.1,Onsite
+E0483,Finance,Outstanding,Promotion,11.8,Hybrid
+E0484,Engineering,Average,Bonus,4.0,Remote
+E0485,HR,High,Promotion,1.8,Hybrid
+E0486,Marketing,Average,Training,9.9,Onsite
+E0487,Engineering,Outstanding,Recognition,1.7,Hybrid
+E0488,Finance,High,Promotion,13.0,Remote
+E0489,Finance,Average,Recognition,13.7,Remote
+E0490,IT,Average,Training,5.5,Remote
+E0491,Operations,Outstanding,Gift Cards,10.9,Hybrid
+E0492,Engineering,High,Promotion,13.3,Hybrid
+E0493,Operations,High,Training,12.2,Onsite
+E0494,Operations,High,Flexible Hours,13.5,Onsite
+E0495,HR,High,Promotion,2.8,Remote
+E0496,IT,Outstanding,Training,8.2,Remote
+E0497,IT,Average,Flexible Hours,0.5,Remote
+E0498,Marketing,Low,Bonus,4.7,Remote
+E0499,Sales,High,Gift Cards,2.0,Remote
+E0500,HR,Average,Recognition,3.6,Hybrid
+E0501,Customer Service,Average,Promotion,3.5,Remote
+E0502,Finance,Outstanding,Bonus,5.1,Onsite
+E0503,Sales,High,Flexible Hours,4.5,Hybrid
+E0504,HR,High,Training,10.9,Hybrid
+E0505,Customer Service,Low,Training,12.2,Hybrid
+E0506,Finance,Low,Promotion,1.8,Remote
+E0507,Sales,High,Training,7.8,Onsite
+E0508,Finance,Average,Flexible Hours,1.1,Onsite
+E0509,Customer Service,High,Recognition,0.8,Hybrid
+E0510,IT,High,Promotion,7.6,Remote
+E0511,IT,Average,Recognition,6.8,Remote
+E0512,Engineering,Low,Bonus,0.6,Onsite
+E0513,HR,High,Gift Cards,7.8,Remote
+E0514,HR,Outstanding,Promotion,14.9,Hybrid
+E0515,Customer Service,Average,Recognition,11.7,Hybrid
+E0516,Operations,High,Flexible Hours,14.9,Onsite
+E0517,IT,Outstanding,Promotion,13.4,Remote
+E0518,IT,Outstanding,Bonus,5.9,Hybrid
+E0519,HR,Average,Gift Cards,12.5,Remote
+E0520,Customer Service,Average,Gift Cards,10.2,Onsite
+E0521,Finance,Average,Recognition,8.9,Remote
+E0522,Engineering,Average,Bonus,8.2,Hybrid
+E0523,Customer Service,High,Recognition,1.1,Onsite
+E0524,HR,Average,Flexible Hours,4.0,Hybrid
+E0525,Operations,Average,Bonus,14.7,Onsite
+E0526,IT,Low,Training,10.2,Hybrid
+E0527,Operations,High,Bonus,1.9,Hybrid
+E0528,Sales,Outstanding,Gift Cards,3.5,Onsite
+E0529,Sales,High,Bonus,14.8,Onsite
+E0530,Operations,Average,Recognition,3.8,Hybrid
+E0531,HR,Average,Training,11.3,Remote
+E0532,HR,High,Gift Cards,13.1,Remote
+E0533,HR,Average,Promotion,11.2,Remote
+E0534,Engineering,Outstanding,Training,8.3,Onsite
+E0535,Finance,High,Promotion,13.3,Remote
+E0536,Finance,Average,Bonus,0.7,Onsite
+E0537,Customer Service,High,Recognition,1.8,Onsite
+E0538,Engineering,Average,Flexible Hours,3.2,Remote
+E0539,Finance,Average,Recognition,10.4,Remote
+E0540,Engineering,Low,Bonus,13.5,Onsite
+E0541,Operations,Low,Promotion,8.0,Remote
+E0542,IT,Average,Flexible Hours,13.3,Hybrid
+E0543,Marketing,High,Training,13.3,Remote
+E0544,Marketing,Average,Recognition,7.0,Remote
+E0545,Operations,High,Recognition,4.7,Onsite
+E0546,HR,Average,Gift Cards,11.4,Hybrid
+E0547,Finance,Average,Promotion,13.0,Onsite
+E0548,Engineering,Average,Promotion,5.8,Onsite
+E0549,Finance,Average,Flexible Hours,1.4,Onsite
+E0550,HR,Outstanding,Flexible Hours,7.3,Onsite
+E0551,Operations,High,Gift Cards,2.4,Remote
+E0552,Operations,High,Recognition,10.7,Remote
+E0553,Customer Service,Average,Bonus,5.4,Hybrid
+E0554,Finance,Average,Promotion,6.2,Hybrid
+E0555,Marketing,Outstanding,Recognition,12.5,Hybrid
+E0556,IT,High,Flexible Hours,11.7,Remote
+E0557,Operations,Average,Gift Cards,1.3,Remote
+E0558,IT,Average,Flexible Hours,11.7,Hybrid
+E0559,Engineering,Average,Flexible Hours,12.0,Hybrid
+E0560,HR,Average,Flexible Hours,13.4,Hybrid
+E0561,Customer Service,Average,Flexible Hours,13.3,Hybrid
+E0562,Finance,Average,Flexible Hours,6.9,Hybrid
+E0563,Finance,Average,Flexible Hours,9.6,Hybrid
+E0564,Operations,Low,Flexible Hours,2.6,Onsite
+E0565,Marketing,High,Bonus,9.8,Remote
+E0566,Operations,High,Training,4.3,Remote
+E0567,Customer Service,Average,Recognition,8.5,Remote
+E0568,Operations,Low,Bonus,1.3,Remote
+E0569,Sales,High,Flexible Hours,1.4,Remote
+E0570,Finance,Low,Training,14.0,Remote
+E0571,Engineering,Outstanding,Training,3.5,Hybrid
+E0572,IT,Average,Promotion,8.9,Hybrid
+E0573,Sales,High,Promotion,6.6,Hybrid
+E0574,Finance,High,Flexible Hours,1.4,Remote
+E0575,Engineering,Average,Gift Cards,6.1,Hybrid
+E0576,IT,Average,Promotion,2.1,Remote
+E0577,Engineering,Average,Training,4.0,Remote
+E0578,Marketing,High,Promotion,6.8,Remote
+E0579,Sales,Low,Training,12.1,Onsite
+E0580,HR,High,Gift Cards,9.4,Onsite
+E0581,HR,High,Flexible Hours,3.0,Onsite
+E0582,Engineering,Average,Training,10.6,Onsite
+E0583,HR,High,Bonus,5.1,Remote
+E0584,Marketing,Low,Flexible Hours,8.8,Remote
+E0585,Engineering,Average,Bonus,12.5,Remote
+E0586,HR,High,Recognition,11.5,Remote
+E0587,Finance,Outstanding,Flexible Hours,1.0,Remote
+E0588,Customer Service,High,Training,13.1,Onsite
+E0589,Operations,Average,Training,7.6,Onsite
+E0590,Engineering,Average,Gift Cards,1.5,Remote
+E0591,Finance,High,Recognition,13.3,Hybrid
+E0592,Sales,High,Gift Cards,0.9,Hybrid
+E0593,Engineering,Low,Promotion,3.1,Onsite
+E0594,Operations,High,Recognition,7.8,Onsite
+E0595,Customer Service,High,Gift Cards,8.4,Onsite
+E0596,IT,Average,Training,5.7,Onsite
+E0597,Sales,High,Training,13.4,Onsite
+E0598,IT,High,Recognition,4.4,Hybrid
+E0599,Engineering,Average,Recognition,6.1,Remote
+E0600,IT,Average,Flexible Hours,13.2,Onsite
+E0601,IT,Average,Gift Cards,9.8,Hybrid
+E0602,Customer Service,High,Bonus,14.5,Onsite
+E0603,Engineering,Low,Gift Cards,4.1,Onsite
+E0604,Customer Service,Outstanding,Promotion,12.5,Hybrid
+E0605,Finance,Average,Training,13.1,Hybrid
+E0606,Operations,High,Recognition,7.5,Hybrid
+E0607,Customer Service,Low,Recognition,5.4,Onsite
+E0608,Finance,Average,Gift Cards,7.3,Remote
+E0609,Sales,Average,Flexible Hours,6.0,Hybrid
+E0610,IT,Average,Promotion,14.1,Onsite
+E0611,IT,High,Bonus,2.1,Hybrid
+E0612,HR,High,Training,4.5,Onsite
+E0613,Marketing,Outstanding,Gift Cards,1.2,Onsite
+E0614,Operations,High,Gift Cards,2.4,Remote
+E0615,Sales,High,Gift Cards,5.2,Hybrid
+E0616,Marketing,Average,Promotion,2.6,Onsite
+E0617,Operations,Average,Gift Cards,11.6,Hybrid
+E0618,IT,Average,Promotion,1.6,Hybrid
+E0619,Sales,Outstanding,Promotion,12.5,Remote
+E0620,Engineering,Average,Gift Cards,1.1,Onsite
+E0621,Finance,Low,Recognition,12.3,Onsite
+E0622,IT,High,Flexible Hours,2.3,Remote
+E0623,HR,Average,Recognition,13.8,Hybrid
+E0624,Sales,Average,Flexible Hours,5.1,Remote
+E0625,Finance,Average,Bonus,3.4,Hybrid
+E0626,HR,Average,Gift Cards,12.6,Remote
+E0627,Customer Service,Low,Flexible Hours,11.1,Remote
+E0628,Marketing,Outstanding,Bonus,13.1,Remote
+E0629,Engineering,Average,Bonus,9.6,Remote
+E0630,Customer Service,Average,Flexible Hours,3.4,Onsite
+E0631,Operations,Outstanding,Gift Cards,3.5,Onsite
+E0632,Operations,High,Training,7.5,Onsite
+E0633,Engineering,High,Gift Cards,4.9,Onsite
+E0634,Finance,High,Promotion,11.9,Remote
+E0635,Finance,Average,Bonus,6.7,Onsite
+E0636,Engineering,Average,Bonus,4.9,Remote
+E0637,Engineering,Average,Flexible Hours,14.8,Onsite
+E0638,Operations,Average,Promotion,7.5,Hybrid
+E0639,Finance,High,Promotion,8.4,Onsite
+E0640,Finance,High,Bonus,9.3,Hybrid
+E0641,Customer Service,Outstanding,Recognition,5.6,Remote
+E0642,Engineering,Average,Recognition,14.9,Remote
+E0643,HR,Average,Training,12.4,Onsite
+E0644,HR,Average,Bonus,14.9,Onsite
+E0645,IT,High,Promotion,12.6,Hybrid
+E0646,Operations,High,Bonus,13.9,Hybrid
+E0647,HR,Average,Gift Cards,6.3,Onsite
+E0648,IT,High,Bonus,7.2,Onsite
+E0649,Sales,High,Recognition,14.1,Onsite
+E0650,Engineering,Outstanding,Flexible Hours,12.6,Hybrid
+E0651,HR,Average,Recognition,2.5,Hybrid
+E0652,Operations,Outstanding,Promotion,6.3,Hybrid
+E0653,Sales,High,Training,10.6,Remote
+E0654,Operations,Average,Promotion,8.4,Remote
+E0655,Engineering,Outstanding,Recognition,6.8,Remote
+E0656,IT,High,Gift Cards,12.2,Remote
+E0657,Engineering,Average,Gift Cards,11.9,Remote
+E0658,Sales,Average,Recognition,11.6,Onsite
+E0659,IT,High,Recognition,3.1,Hybrid
+E0660,Customer Service,High,Promotion,4.1,Onsite
+E0661,Sales,High,Bonus,12.9,Onsite
+E0662,Marketing,High,Flexible Hours,7.8,Onsite
+E0663,IT,Average,Flexible Hours,8.2,Hybrid
+E0664,Sales,Average,Bonus,10.5,Onsite
+E0665,Customer Service,Low,Promotion,1.3,Onsite
+E0666,Sales,High,Gift Cards,8.1,Onsite
+E0667,HR,Low,Recognition,6.7,Onsite
+E0668,Customer Service,Average,Training,12.3,Remote
+E0669,Engineering,Outstanding,Gift Cards,13.1,Onsite
+E0670,HR,High,Training,7.2,Hybrid
+E0671,Finance,Outstanding,Recognition,2.3,Onsite
+E0672,HR,Average,Flexible Hours,4.3,Hybrid
+E0673,HR,Average,Promotion,1.3,Hybrid
+E0674,Marketing,Outstanding,Recognition,12.5,Hybrid
+E0675,IT,Low,Recognition,1.3,Onsite
+E0676,Finance,Average,Promotion,4.7,Hybrid
+E0677,HR,High,Promotion,13.7,Hybrid
+E0678,Operations,Average,Gift Cards,6.3,Onsite
+E0679,Customer Service,High,Flexible Hours,9.4,Onsite
+E0680,Customer Service,Outstanding,Recognition,4.0,Remote
+E0681,Engineering,High,Promotion,3.4,Onsite
+E0682,Operations,High,Gift Cards,2.9,Onsite
+E0683,Engineering,Average,Flexible Hours,12.8,Hybrid
+E0684,HR,Average,Bonus,0.7,Onsite
+E0685,HR,High,Flexible Hours,9.0,Onsite
+E0686,Marketing,Outstanding,Recognition,8.0,Hybrid
+E0687,Sales,Average,Training,4.7,Hybrid
+E0688,Customer Service,Outstanding,Promotion,10.9,Onsite
+E0689,IT,Low,Promotion,6.8,Onsite
+E0690,Engineering,High,Gift Cards,14.9,Remote
+E0691,Engineering,High,Gift Cards,12.3,Hybrid
+E0692,Finance,Outstanding,Bonus,3.2,Onsite
+E0693,IT,Average,Bonus,10.7,Hybrid
+E0694,Finance,Average,Training,7.0,Onsite
+E0695,HR,Low,Gift Cards,10.9,Remote
+E0696,HR,High,Gift Cards,1.7,Remote
+E0697,IT,Average,Flexible Hours,7.0,Remote
+E0698,Customer Service,High,Gift Cards,12.1,Onsite
+E0699,Sales,Average,Training,14.0,Onsite
+E0700,Finance,High,Flexible Hours,6.1,Onsite
+E0701,Engineering,Average,Recognition,2.5,Hybrid
+E0702,Marketing,Low,Gift Cards,1.7,Onsite
+E0703,Operations,Outstanding,Flexible Hours,1.6,Remote
+E0704,IT,Average,Training,14.9,Onsite
+E0705,Marketing,Average,Training,13.0,Onsite
+E0706,HR,High,Recognition,4.9,Onsite
+E0707,Customer Service,Low,Flexible Hours,9.1,Remote
+E0708,Operations,Outstanding,Training,9.4,Onsite
+E0709,Engineering,Average,Training,2.6,Hybrid
+E0710,Finance,High,Training,11.3,Onsite
+E0711,Finance,Average,Gift Cards,6.7,Remote
+E0712,IT,High,Training,2.8,Remote
+E0713,Marketing,High,Promotion,1.8,Onsite
+E0714,Marketing,Average,Flexible Hours,9.3,Onsite
+E0715,Finance,High,Promotion,4.2,Onsite
+E0716,HR,High,Recognition,3.1,Onsite
+E0717,Customer Service,Low,Promotion,5.3,Hybrid
+E0718,Operations,Low,Promotion,3.1,Remote
+E0719,IT,Average,Training,14.9,Remote
+E0720,Customer Service,Average,Bonus,7.9,Remote
+E0721,HR,Average,Gift Cards,12.2,Onsite
+E0722,Customer Service,High,Gift Cards,1.3,Onsite
+E0723,HR,Average,Recognition,14.4,Onsite
+E0724,Customer Service,Average,Training,9.4,Hybrid
+E0725,IT,Average,Bonus,8.9,Onsite
+E0726,IT,Outstanding,Training,12.5,Onsite
+E0727,Customer Service,High,Flexible Hours,1.7,Hybrid
+E0728,Marketing,Average,Bonus,10.0,Remote
+E0729,Engineering,High,Recognition,4.3,Onsite
+E0730,Finance,High,Gift Cards,4.9,Onsite
+E0731,Customer Service,High,Gift Cards,8.9,Remote
+E0732,IT,High,Bonus,5.2,Onsite
+E0733,Marketing,Average,Promotion,2.0,Hybrid
+E0734,IT,Average,Bonus,4.9,Onsite
+E0735,Operations,High,Recognition,3.8,Remote
+E0736,Customer Service,Average,Gift Cards,3.6,Remote
+E0737,HR,Average,Flexible Hours,1.4,Onsite
+E0738,Customer Service,Average,Gift Cards,1.8,Onsite
+E0739,Marketing,Average,Gift Cards,9.2,Remote
+E0740,IT,Average,Promotion,13.5,Remote
+E0741,IT,Average,Bonus,12.5,Onsite
+E0742,Operations,High,Recognition,11.4,Hybrid
+E0743,Sales,Average,Training,2.9,Hybrid
+E0744,Customer Service,Average,Gift Cards,0.9,Hybrid
+E0745,Customer Service,Outstanding,Promotion,2.5,Hybrid
+E0746,Operations,High,Training,9.5,Hybrid
+E0747,Customer Service,High,Gift Cards,4.8,Onsite
+E0748,Operations,Average,Recognition,11.6,Hybrid
+E0749,Sales,Outstanding,Recognition,4.5,Onsite
+E0750,Sales,Average,Flexible Hours,13.7,Hybrid
+E0751,Finance,Average,Gift Cards,9.9,Remote
+E0752,Marketing,Outstanding,Gift Cards,8.4,Onsite
+E0753,Operations,Average,Bonus,5.7,Remote
+E0754,IT,Outstanding,Training,13.3,Hybrid
+E0755,Sales,Average,Promotion,11.0,Onsite
+E0756,Sales,Average,Training,11.6,Remote
+E0757,Marketing,Average,Bonus,3.3,Remote
+E0758,Sales,High,Flexible Hours,13.0,Remote
+E0759,Finance,Outstanding,Flexible Hours,9.7,Onsite
+E0760,Sales,High,Flexible Hours,7.1,Onsite
+E0761,Marketing,High,Flexible Hours,15.0,Hybrid
+E0762,Engineering,High,Flexible Hours,10.3,Onsite
+E0763,Operations,High,Recognition,4.0,Remote
+E0764,Finance,High,Training,3.9,Hybrid
+E0765,Engineering,High,Training,11.1,Remote
+E0766,IT,Average,Gift Cards,5.7,Hybrid
+E0767,IT,Outstanding,Training,6.7,Onsite
+E0768,Customer Service,Average,Bonus,3.0,Hybrid
+E0769,Engineering,Low,Recognition,9.7,Onsite
+E0770,Operations,High,Training,9.1,Remote
+E0771,Sales,Outstanding,Gift Cards,12.6,Onsite
+E0772,Engineering,High,Bonus,10.7,Remote
+E0773,Operations,Outstanding,Training,6.9,Onsite
+E0774,HR,High,Promotion,8.5,Hybrid
+E0775,Customer Service,Average,Bonus,9.5,Onsite
+E0776,Customer Service,Average,Promotion,2.9,Onsite
+E0777,IT,Outstanding,Gift Cards,1.8,Onsite
+E0778,HR,Average,Flexible Hours,4.1,Onsite
+E0779,Operations,Average,Recognition,11.3,Onsite
+E0780,Marketing,High,Training,2.1,Remote
+E0781,Operations,High,Flexible Hours,13.3,Hybrid
+E0782,Engineering,High,Recognition,5.1,Remote
+E0783,Marketing,Low,Flexible Hours,11.3,Hybrid
+E0784,Sales,High,Flexible Hours,5.1,Hybrid
+E0785,Customer Service,Outstanding,Gift Cards,1.8,Remote
+E0786,IT,High,Recognition,9.8,Remote
+E0787,HR,High,Gift Cards,10.3,Hybrid
+E0788,Operations,Average,Recognition,13.4,Onsite
+E0789,Engineering,High,Gift Cards,7.2,Hybrid
+E0790,IT,Average,Training,1.1,Onsite
+E0791,Operations,Average,Promotion,9.4,Hybrid
+E0792,Customer Service,Average,Training,6.1,Onsite
+E0793,Sales,High,Training,12.0,Hybrid
+E0794,HR,Average,Recognition,10.4,Onsite
+E0795,Customer Service,Outstanding,Promotion,8.1,Hybrid
+E0796,Customer Service,High,Training,7.2,Onsite
+E0797,IT,High,Flexible Hours,13.7,Onsite
+E0798,HR,High,Promotion,13.8,Onsite
+E0799,IT,Average,Promotion,11.0,Hybrid
+E0800,Operations,High,Promotion,10.0,Hybrid
+E0801,IT,High,Training,10.1,Hybrid
+E0802,HR,Average,Promotion,3.4,Remote
+E0803,Marketing,Average,Gift Cards,7.4,Remote
+E0804,IT,Low,Bonus,3.4,Remote
+E0805,Finance,Outstanding,Gift Cards,12.8,Remote
+E0806,Engineering,Average,Training,14.2,Onsite
+E0807,Operations,High,Training,8.6,Remote
+E0808,Sales,High,Bonus,8.5,Hybrid
+E0809,Finance,Outstanding,Recognition,2.1,Hybrid
+E0810,Customer Service,High,Bonus,2.9,Hybrid
+E0811,Sales,Average,Bonus,3.2,Remote
+E0812,Engineering,Average,Recognition,6.8,Remote
+E0813,HR,Average,Recognition,8.3,Remote
+E0814,IT,Outstanding,Training,9.1,Hybrid
+E0815,Operations,Outstanding,Training,8.7,Remote
+E0816,Engineering,Average,Training,14.7,Remote
+E0817,Marketing,Average,Promotion,12.8,Hybrid
+E0818,Marketing,Outstanding,Bonus,3.0,Hybrid
+E0819,Engineering,High,Recognition,12.4,Hybrid
+E0820,HR,High,Training,13.6,Hybrid
+E0821,Operations,Outstanding,Bonus,0.6,Remote
+E0822,Engineering,Outstanding,Bonus,10.6,Onsite
+E0823,Customer Service,Average,Training,9.7,Hybrid
+E0824,Marketing,Average,Recognition,9.3,Onsite
+E0825,Operations,Average,Recognition,11.1,Onsite
+E0826,IT,High,Recognition,12.6,Remote
+E0827,Engineering,High,Flexible Hours,14.0,Onsite
+E0828,Customer Service,Low,Bonus,1.9,Remote
+E0829,Marketing,Low,Bonus,10.1,Hybrid
+E0830,Finance,High,Training,8.6,Remote
+E0831,Marketing,Average,Flexible Hours,11.7,Onsite
+E0832,Operations,Average,Bonus,13.9,Onsite
+E0833,Sales,High,Gift Cards,8.6,Onsite
+E0834,Customer Service,High,Bonus,11.3,Onsite
+E0835,Sales,Average,Recognition,5.2,Onsite
+E0836,Engineering,High,Training,9.1,Hybrid
+E0837,Engineering,High,Bonus,3.7,Onsite
+E0838,Finance,High,Recognition,9.8,Remote
+E0839,Engineering,Outstanding,Recognition,8.9,Onsite
+E0840,HR,Average,Recognition,14.9,Remote
+E0841,Customer Service,Average,Recognition,14.9,Hybrid
+E0842,Engineering,Average,Bonus,5.6,Onsite
+E0843,Finance,Average,Flexible Hours,11.2,Onsite
+E0844,HR,High,Recognition,9.0,Onsite
+E0845,IT,Average,Promotion,5.0,Onsite
+E0846,Operations,Average,Gift Cards,11.2,Remote
+E0847,Finance,High,Bonus,10.0,Onsite
+E0848,Engineering,Average,Flexible Hours,1.4,Onsite
+E0849,Marketing,Outstanding,Gift Cards,9.4,Remote
+E0850,Sales,High,Flexible Hours,9.7,Onsite
+E0851,Operations,High,Flexible Hours,12.1,Remote
+E0852,Operations,Average,Flexible Hours,13.5,Hybrid
+E0853,Engineering,Average,Training,12.5,Onsite
+E0854,Marketing,Average,Gift Cards,5.9,Remote
+E0855,Marketing,Average,Bonus,12.9,Remote
+E0856,HR,Outstanding,Recognition,2.1,Onsite
+E0857,Finance,Outstanding,Bonus,9.5,Onsite
+E0858,HR,Average,Recognition,2.6,Onsite
+E0859,Finance,Outstanding,Promotion,8.3,Hybrid
+E0860,Customer Service,Average,Bonus,1.0,Hybrid
+E0861,Engineering,Outstanding,Bonus,11.4,Remote
+E0862,Engineering,Low,Flexible Hours,4.1,Remote
+E0863,Sales,Outstanding,Flexible Hours,7.8,Onsite
+E0864,Finance,Low,Promotion,3.9,Hybrid
+E0865,Customer Service,Average,Gift Cards,2.4,Hybrid
+E0866,IT,Average,Gift Cards,8.9,Onsite
+E0867,IT,High,Gift Cards,1.2,Hybrid
+E0868,Engineering,Average,Training,12.5,Remote
+E0869,Customer Service,High,Bonus,1.7,Remote
+E0870,Customer Service,High,Training,14.9,Onsite
+E0871,Marketing,Average,Promotion,14.6,Remote
+E0872,IT,High,Bonus,0.9,Hybrid
+E0873,HR,Average,Flexible Hours,10.1,Onsite
+E0874,Operations,Average,Gift Cards,14.7,Onsite
+E0875,Sales,Average,Recognition,3.2,Hybrid
+E0876,Sales,High,Bonus,13.7,Remote
+E0877,Customer Service,Average,Bonus,9.3,Onsite
+E0878,Customer Service,Average,Flexible Hours,10.3,Onsite
+E0879,Marketing,Outstanding,Bonus,8.8,Onsite
+E0880,Sales,Average,Training,11.4,Onsite
+E0881,Marketing,Outstanding,Training,9.4,Remote
+E0882,Engineering,Outstanding,Recognition,13.8,Remote
+E0883,IT,Low,Training,3.7,Remote
+E0884,Sales,High,Training,5.2,Hybrid
+E0885,HR,Outstanding,Flexible Hours,4.9,Onsite
+E0886,Customer Service,High,Training,12.8,Onsite
+E0887,Finance,High,Training,2.6,Remote
+E0888,HR,High,Flexible Hours,6.6,Remote
+E0889,HR,High,Gift Cards,3.6,Remote
+E0890,Customer Service,High,Gift Cards,14.4,Remote
+E0891,Operations,Average,Training,1.2,Remote
+E0892,IT,High,Recognition,1.6,Remote
+E0893,Operations,Average,Promotion,10.5,Onsite
+E0894,Operations,Low,Gift Cards,6.9,Hybrid
+E0895,Customer Service,High,Promotion,0.7,Remote
+E0896,Sales,Average,Gift Cards,11.9,Hybrid
+E0897,Marketing,High,Gift Cards,1.7,Remote
+E0898,Engineering,High,Gift Cards,2.4,Hybrid
+E0899,HR,Average,Promotion,5.0,Hybrid
+E0900,Engineering,Outstanding,Gift Cards,8.4,Hybrid
+E0901,Operations,Average,Gift Cards,8.3,Onsite
+E0902,IT,High,Flexible Hours,4.9,Remote
+E0903,Customer Service,High,Bonus,10.5,Remote
+E0904,IT,Average,Recognition,6.8,Onsite
+E0905,Engineering,Average,Promotion,8.5,Hybrid
+E0906,Finance,Low,Gift Cards,9.2,Hybrid
+E0907,Operations,High,Gift Cards,11.4,Remote
+E0908,Customer Service,High,Gift Cards,5.9,Remote
+E0909,Operations,Low,Flexible Hours,12.9,Hybrid
+E0910,Sales,High,Training,13.3,Onsite
+E0911,Finance,Average,Bonus,13.6,Onsite
+E0912,Finance,Outstanding,Gift Cards,5.3,Onsite
+E0913,Engineering,Low,Flexible Hours,11.3,Remote
+E0914,Finance,High,Flexible Hours,5.9,Hybrid
+E0915,Marketing,Low,Flexible Hours,1.2,Hybrid
+E0916,Customer Service,Average,Flexible Hours,6.5,Onsite
+E0917,Marketing,High,Flexible Hours,7.2,Remote
+E0918,Engineering,High,Gift Cards,12.4,Onsite
+E0919,HR,Outstanding,Bonus,3.1,Onsite
+E0920,Engineering,Average,Promotion,7.7,Onsite
+E0921,Customer Service,Average,Promotion,10.6,Onsite
+E0922,Marketing,High,Training,13.1,Remote
+E0923,Finance,High,Flexible Hours,1.3,Hybrid
+E0924,Operations,High,Bonus,2.3,Onsite
+E0925,Marketing,High,Promotion,10.3,Onsite
+E0926,Engineering,High,Bonus,5.4,Onsite
+E0927,Customer Service,Average,Gift Cards,5.7,Remote
+E0928,Customer Service,Average,Bonus,13.3,Onsite
+E0929,Finance,Average,Flexible Hours,7.1,Hybrid
+E0930,HR,Average,Promotion,6.7,Remote
+E0931,IT,Average,Bonus,7.4,Remote
+E0932,Operations,High,Flexible Hours,13.5,Remote
+E0933,HR,High,Flexible Hours,11.4,Remote
+E0934,Engineering,Average,Recognition,8.8,Onsite
+E0935,Finance,Outstanding,Flexible Hours,3.1,Onsite
+E0936,IT,Average,Recognition,4.9,Onsite
+E0937,Marketing,Average,Gift Cards,1.8,Hybrid
+E0938,Finance,Average,Recognition,4.5,Hybrid
+E0939,Engineering,High,Training,5.7,Onsite
+E0940,HR,High,Recognition,10.6,Hybrid
+E0941,Finance,Average,Training,6.6,Hybrid
+E0942,Operations,Low,Training,10.4,Remote
+E0943,HR,Average,Recognition,3.3,Onsite
+E0944,IT,High,Bonus,14.8,Remote
+E0945,Customer Service,Outstanding,Gift Cards,10.2,Onsite
+E0946,Operations,High,Training,12.3,Remote
+E0947,Customer Service,Average,Gift Cards,7.1,Onsite
+E0948,Marketing,High,Gift Cards,14.6,Hybrid
+E0949,Marketing,Low,Promotion,3.0,Hybrid
+E0950,HR,Average,Recognition,5.5,Hybrid
+E0951,HR,High,Recognition,7.5,Onsite
+E0952,Sales,High,Recognition,8.7,Remote
+E0953,Customer Service,Average,Flexible Hours,4.9,Onsite
+E0954,Sales,Outstanding,Bonus,13.1,Hybrid
+E0955,HR,Average,Bonus,8.5,Onsite
+E0956,Finance,Low,Bonus,11.2,Onsite
+E0957,Finance,Average,Flexible Hours,14.8,Hybrid
+E0958,Operations,High,Promotion,1.4,Hybrid
+E0959,HR,Low,Promotion,12.0,Hybrid
+E0960,Customer Service,Outstanding,Training,5.1,Onsite
+E0961,Finance,High,Gift Cards,3.9,Hybrid
+E0962,HR,Average,Promotion,12.6,Onsite
+E0963,Marketing,Low,Training,0.7,Hybrid
+E0964,HR,Low,Training,1.2,Hybrid
+E0965,Finance,Average,Promotion,13.3,Remote
+E0966,Engineering,Outstanding,Promotion,0.8,Hybrid
+E0967,Sales,Average,Flexible Hours,6.3,Remote
+E0968,Finance,Average,Training,8.7,Onsite
+E0969,Operations,Low,Recognition,5.3,Onsite
+E0970,Engineering,Average,Recognition,8.4,Hybrid
+E0971,IT,High,Recognition,7.1,Onsite
+E0972,Marketing,High,Recognition,13.4,Hybrid
+E0973,Customer Service,Outstanding,Bonus,8.4,Hybrid
+E0974,Sales,High,Promotion,10.8,Remote
+E0975,HR,Low,Recognition,13.3,Onsite
+E0976,Engineering,Low,Bonus,5.3,Onsite
+E0977,Sales,High,Bonus,6.0,Onsite
+E0978,Marketing,Outstanding,Flexible Hours,5.4,Remote
+E0979,Engineering,Average,Recognition,12.7,Onsite
+E0980,Marketing,Outstanding,Promotion,10.6,Onsite
+E0981,Finance,Outstanding,Gift Cards,12.2,Onsite
+E0982,Engineering,High,Bonus,2.3,Onsite
+E0983,HR,Outstanding,Flexible Hours,9.1,Hybrid
+E0984,IT,High,Bonus,13.8,Onsite
+E0985,Sales,High,Training,14.8,Remote
+E0986,Sales,Average,Recognition,10.6,Onsite
+E0987,Engineering,Outstanding,Flexible Hours,10.6,Onsite
+E0988,Marketing,High,Bonus,14.4,Onsite
+E0989,HR,High,Bonus,0.6,Remote
+E0990,Operations,Average,Flexible Hours,12.0,Onsite
+E0991,IT,Average,Gift Cards,12.0,Onsite
+E0992,Finance,Average,Bonus,5.6,Hybrid
+E0993,HR,Outstanding,Flexible Hours,3.5,Onsite
+E0994,Finance,Outstanding,Promotion,5.3,Hybrid
+E0995,Finance,Outstanding,Training,7.3,Onsite
+E0996,Customer Service,High,Flexible Hours,0.8,Onsite
+E0997,Engineering,High,Promotion,5.2,Onsite
+E0998,Customer Service,Average,Training,5.4,Remote
+E0999,Customer Service,High,Training,11.5,Remote
+E1000,Finance,Low,Bonus,10.9,Hybrid
